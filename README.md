@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Villelmo
 - 👀 I’m interested in Perl
-- 🌱 I’m currently learning mysql
+- 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on OpenSource
 - 📫 How to reach me willitc9888@gmail.com
 
