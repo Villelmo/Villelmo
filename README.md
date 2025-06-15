@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Villelmo
-- 👀 I’m interested in Perl
-- 🌱 I’m currently learning PostgreSQL
-- 💞️ I’m looking to collaborate on OpenSource
-- 📫 How to reach me willitc9888@gmail.com
+### 🛠️ Tech Stack  
+![Windows Automation](https://img.shields.io/badge/Windows_Services-0078D6?logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white) *(Learning)*  
+![Batch](https://img.shields.io/badge/Batch_Scripts-4D4D4D?logo=windowsterminal&logoColor=white)
 
-<!---
-Villelmo/Villelmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 **Proyectos recientes**:  
+- [🔧 NSSM Service Optimizer](https://github.com/Villelmo/nssm-optimizer) (Batch)  
+- [📜 Scripts en Perl]([https://github.com/Villelmo/perl-scripts](https://github.com/Villelmo/Beginning_Perl) *(Nuevo!)*  
